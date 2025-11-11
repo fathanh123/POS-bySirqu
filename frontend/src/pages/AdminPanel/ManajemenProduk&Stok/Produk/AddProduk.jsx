@@ -38,12 +38,16 @@ const AddProduk = ({ buttonProps, title, showIcon, fetchDataProduk }) => {
     const [isOpen, setIsOpen] = useState(false);
     const [namaproduk, setNamaproduk] = useState('');
     const [deskripsi, setdeskripsi] = useState('');
+    const [sku, setSKU] = useState('');
 
     const handleInputChangenamaproduk = (event) => {
         setNamaproduk(event.target.value);
     };
     const handleInputChangedeskripsi = (event) => {
         setdeskripsi(event.target.value);
+    };
+    const handleInputChangesku = (event) => {
+        setSKU(event.target.value);
     };
 
 
@@ -342,7 +346,8 @@ const AddProduk = ({ buttonProps, title, showIcon, fetchDataProduk }) => {
                 description: deskripsi,
                 price: uang,
                 stock: stock,
-                unlimited_stock: isUnlimitedStock
+                unlimited_stock: isUnlimitedStock,
+                sku: sku
             }, {
                 headers: {
                     'Authorization': `Bearer ${token}`,
@@ -480,6 +485,17 @@ const AddProduk = ({ buttonProps, title, showIcon, fetchDataProduk }) => {
                                     ))}
                                 </div>
                             </div>
+                        </div>
+                        <div className="flex gap-1">
+                            <Label htmlFor="namaproduk" className="text-[14px] w-[240px] py-[8px]">SKU Produk<span className='text-rose-500'>*</span></Label>
+                            <Input
+                                id="namaproduk"
+                                placeholder="Masukkan SKU Produk"
+                                required
+                                className="h-[36px] text-[14px]  border-slate-300"
+                                value={sku}
+                                onChange={handleInputChangesku}
+                            />
                         </div>
                         <div className="flex gap-1">
                             <Label htmlFor="namaproduk" className="text-[14px] w-[240px] py-[8px]">Nama Produk<span className='text-rose-500'>*</span></Label>

@@ -136,7 +136,7 @@ exports.getProductById = async (req, res) => {
 
 // Create a new product
 exports.createProduct = async (req, res) => {
-  const { name, description, price, stock, unlimited_stock } = req.body;
+  const { name, description, price, stock, unlimited_stock, sku } = req.body;
 
   if (!unlimited_stock && (stock < 0 || isNaN(stock))) {
     return res.status(400).json({ error: "Stock must be a non-negative integer when not unlimited." });
@@ -152,7 +152,8 @@ exports.createProduct = async (req, res) => {
       price,
       stock: finalStock,
       unlimited_stock,
-      status
+      status,
+      sku
     });
     res.status(201).json(newProduct);
   } catch (err) {
