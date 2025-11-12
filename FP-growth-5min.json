@@ -1,0 +1,315 @@
+[
+    {
+        "antecedents": [
+            "OUD SERIES 3"
+        ],
+        "consequents": [
+            "OUD SERIES 1"
+        ]
+    },
+    {
+        "antecedents": [
+            "OUD SERIES 2",
+            "OUD SERIES 1"
+        ],
+        "consequents": [
+            "OUD SERIES 3"
+        ]
+    },
+    {
+        "antecedents": [
+            "OUD SERIES 2",
+            "OUD SERIES 3"
+        ],
+        "consequents": [
+            "OUD SERIES 1"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 001"
+        ],
+        "consequents": [
+            "Kitab 0711"
+        ]
+    },
+    {
+        "antecedents": [
+            "Kitab 0711"
+        ],
+        "consequents": [
+            "Dzahabi 001"
+        ]
+    },
+    {
+        "antecedents": [
+            "Arafah 051"
+        ],
+        "consequents": [
+            "Arafah 050"
+        ]
+    },
+    {
+        "antecedents": [
+            "Arafah 050"
+        ],
+        "consequents": [
+            "Arafah 051"
+        ]
+    },
+    {
+        "antecedents": [
+            "Arafah 028"
+        ],
+        "consequents": [
+            "Arafah 050"
+        ]
+    },
+    {
+        "antecedents": [
+            "Arafah 050"
+        ],
+        "consequents": [
+            "Arafah 028"
+        ]
+    },
+    {
+        "antecedents": [
+            "Arafah 028"
+        ],
+        "consequents": [
+            "Arafah 051"
+        ]
+    },
+    {
+        "antecedents": [
+            "Arafah 051"
+        ],
+        "consequents": [
+            "Arafah 028"
+        ]
+    },
+    {
+        "antecedents": [
+            "Arafah 051",
+            "Arafah 028"
+        ],
+        "consequents": [
+            "Arafah 050"
+        ]
+    },
+    {
+        "antecedents": [
+            "Arafah 051",
+            "Arafah 050"
+        ],
+        "consequents": [
+            "Arafah 028"
+        ]
+    },
+    {
+        "antecedents": [
+            "Arafah 028",
+            "Arafah 050"
+        ],
+        "consequents": [
+            "Arafah 051"
+        ]
+    },
+    {
+        "antecedents": [
+            "Arafah 051"
+        ],
+        "consequents": [
+            "Arafah 028",
+            "Arafah 050"
+        ]
+    },
+    {
+        "antecedents": [
+            "Arafah 028"
+        ],
+        "consequents": [
+            "Arafah 051",
+            "Arafah 050"
+        ]
+    },
+    {
+        "antecedents": [
+            "Arafah 050"
+        ],
+        "consequents": [
+            "Arafah 051",
+            "Arafah 028"
+        ]
+    },
+    {
+        "antecedents": [
+            "DH 1461"
+        ],
+        "consequents": [
+            "DH 1463"
+        ]
+    },
+    {
+        "antecedents": [
+            "DH 1463"
+        ],
+        "consequents": [
+            "DH 1461"
+        ]
+    },
+    {
+        "antecedents": [
+            "DH 1462"
+        ],
+        "consequents": [
+            "DH 1461"
+        ]
+    },
+    {
+        "antecedents": [
+            "DH 1461"
+        ],
+        "consequents": [
+            "DH 1462"
+        ]
+    },
+    {
+        "antecedents": [
+            "DH 1462"
+        ],
+        "consequents": [
+            "DH 1463"
+        ]
+    },
+    {
+        "antecedents": [
+            "DH 1463"
+        ],
+        "consequents": [
+            "DH 1462"
+        ]
+    },
+    {
+        "antecedents": [
+            "DH 1462",
+            "DH 1461"
+        ],
+        "consequents": [
+            "DH 1463"
+        ]
+    },
+    {
+        "antecedents": [
+            "DH 1462",
+            "DH 1463"
+        ],
+        "consequents": [
+            "DH 1461"
+        ]
+    },
+    {
+        "antecedents": [
+            "DH 1461",
+            "DH 1463"
+        ],
+        "consequents": [
+            "DH 1462"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 002"
+        ],
+        "consequents": [
+            "Dzahabi 001"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 001"
+        ],
+        "consequents": [
+            "Dzahabi 002"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 002"
+        ],
+        "consequents": [
+            "Kitab 0711"
+        ]
+    },
+    {
+        "antecedents": [
+            "Kitab 0711"
+        ],
+        "consequents": [
+            "Dzahabi 002"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 002",
+            "Dzahabi 001"
+        ],
+        "consequents": [
+            "Kitab 0711"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 002",
+            "Kitab 0711"
+        ],
+        "consequents": [
+            "Dzahabi 001"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 001",
+            "Kitab 0711"
+        ],
+        "consequents": [
+            "Dzahabi 002"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 002"
+        ],
+        "consequents": [
+            "Dzahabi 001",
+            "Kitab 0711"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 001"
+        ],
+        "consequents": [
+            "Dzahabi 002",
+            "Kitab 0711"
+        ]
+    },
+    {
+        "antecedents": [
+            "Kitab 0711"
+        ],
+        "consequents": [
+            "Dzahabi 002",
+            "Dzahabi 001"
+        ]
+    },
+    {
+        "antecedents": [
+            "Hotto 1"
+        ],
+        "consequents": [
+            "Purto 1"
+        ]
+    }
+]

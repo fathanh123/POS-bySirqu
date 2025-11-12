@@ -1,0 +1,104 @@
+[
+    {
+        "antecedents": [
+            "Dzahabi 001"
+        ],
+        "consequents": [
+            "Kitab 0711"
+        ]
+    },
+    {
+        "antecedents": [
+            "Kitab 0711"
+        ],
+        "consequents": [
+            "Dzahabi 001"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 002"
+        ],
+        "consequents": [
+            "Dzahabi 001"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 001"
+        ],
+        "consequents": [
+            "Dzahabi 002"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 002"
+        ],
+        "consequents": [
+            "Kitab 0711"
+        ]
+    },
+    {
+        "antecedents": [
+            "Kitab 0711"
+        ],
+        "consequents": [
+            "Dzahabi 002"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 002",
+            "Dzahabi 001"
+        ],
+        "consequents": [
+            "Kitab 0711"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 002",
+            "Kitab 0711"
+        ],
+        "consequents": [
+            "Dzahabi 001"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 001",
+            "Kitab 0711"
+        ],
+        "consequents": [
+            "Dzahabi 002"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 002"
+        ],
+        "consequents": [
+            "Dzahabi 001",
+            "Kitab 0711"
+        ]
+    },
+    {
+        "antecedents": [
+            "Dzahabi 001"
+        ],
+        "consequents": [
+            "Dzahabi 002",
+            "Kitab 0711"
+        ]
+    },
+    {
+        "antecedents": [
+            "Kitab 0711"
+        ],
+        "consequents": [
+            "Dzahabi 002",
+            "Dzahabi 001"
+        ]
+    }
+]
