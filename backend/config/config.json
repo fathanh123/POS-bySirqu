@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "root123",
+    "password": "MySqlR@d1t",
     "database": "sirqu_db_fix",
     "host": "127.0.0.1",
     "dialect": "mysql",
