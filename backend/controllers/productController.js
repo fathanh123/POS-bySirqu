@@ -221,6 +221,7 @@ exports.getProducts = async (req, res) => {
           p.stock,
           p.unlimited_stock,
           p.status,
+          p.sku,
           p.createdAt AS product_created_at,
           GROUP_CONCAT(DISTINCT c.name ORDER BY c.name ASC SEPARATOR ', ') AS category_names,
           GROUP_CONCAT(DISTINCT o.nama ORDER BY o.nama ASC SEPARATOR ', ') AS outlet_names
@@ -412,6 +413,7 @@ exports.getProductMenu = async (req, res) => {
     p.stock,
     p.unlimited_stock,
     p.status,
+    p.sku,
     p.createdAt AS product_created_at,
     c.id AS category_id,
     c.name AS category_name,
