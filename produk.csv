@@ -1,0 +1,282 @@
+id,name,description,price,stock,unlimited_stock,status,createdAt,updatedAt,deletedAt,sku
+1,Metode TAJWID PRAKTIS,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS TP
+2,Iqro Koran Besar,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,AMM 003
+3,Dzikir Pagi Petang DPP PIS,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS DPP
+4,Dzikir Pagi Petang Saku (DPP),-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 110
+5,Iqro Utsmani Bundel 1-6 HVS,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Tartil 02
+6,Parfum Raudhah 35 ML Spray,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,OUD SERIES 1
+7,Tajwid LENGKAP Asy Syafii,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS TAS
+8,Mukhtarot Ringkasan Kaidah Bahasa Arab,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Furqon 2063
+9,Olimex Minyak Ikan Gabus 60 kps,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,5039
+10,Coklat Truffle Mix,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,1238
+11,Madu Gurah Fit 280 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Fira 02
+12,Kalender Hijriyah 1447,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 281
+13,Iqro HVS Besar,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,AMM 001
+14,Iqro Utsmani Per Jilid 1-6,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Tartil 01
+15,Kumis Kucing 60 kps,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Toga 5115
+16,Madu Zestmag 280 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Fira 01
+17,Al Quran Ash Shahib A5,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Hilal M 14
+18,Squalene Soft Gel Kapsul,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Intra Aires
+19,Duzi Pure Susu Kuda 200 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR05257
+20,Madu Vitagerd 350 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Jadied 122820
+21,Doa dan Wirid,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS DOA-HC
+22,Ferswit Edamame,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR052510
+23,Parfum X permata,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,X Parfum 2210
+24,Syarah TUHFATUL ATHFAL,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS STA
+25,Al Quran Ash Shahib A4 Terjemah,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Hilal M 13
+26,Cara Praktis Baca Quran (Edisi Iqro),-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS CPB
+27,Madu Gutamin 160 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Herbindo 015
+28,Date Crown Khalas 1 kg,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kurma 1547
+29,Durusul Lughah 1-4 HC,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kitab 0711
+30,HADITS ARBAIN An Nawawi,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0947
+31,Kamus Durusulughah 1-2,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Dzahabi 001
+32,Kamus Mahmud Yunus,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kamus 1340
+33,Madu Dukosam 160 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Herbindo 01
+34,Lumbricaps 45 Kpl,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Thoifah 1691
+35,KOLI,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,K1
+36,Parfum Kiswah 35 ML Spray,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,OUD SERIES 2
+37,MGanik Metafiber Rasa Leci 7 Sct @15 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Mganik 006
+38,Kamus Saku Bahasa Arab Set 3 Jilid Najwa Tsurayya,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,NS 001
+39,Kamus Durusulughah 3-4,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Dzahabi 002
+40,Albinox 60 Kaps,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR05252
+41,Metode Asy Syafii Sistem Makhraji,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS ISM
+42,Madu Hutan MultiFlora 1 kg As Salamah,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,As Salamah 001
+43,BRITISH PROPOLIS Reguler,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,BP 1
+44,Parfum oud Series 35 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,OUD SERIES
+45,Iqro Utsmani Remaja & Dewasa Koran,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Tartil 05
+46,Habbasyifa 200 kps,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Syifa 005
+47,Madu Jamkorat 280 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Fira 03
+48,Iqro Koran Besar + Juz Amma,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,AMM 005
+49,SkyGoat Full Cream Original 10 sct,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,0631
+50,Kurma Sukari 1 Kg King,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR10242124
+51,MGanik Metafiber Rasa Jeruk Yuzu 7 Sctt @15 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Mganik 004
+52,Fikih Muyassar,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0287
+53,Sari Kurma Madu Angkak Sakura Propolis Jambu Biji Daun Ubi 470 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Darusyifa 18
+54,Al Quran Ash Shahib A4 Tajwid,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Hilal M 15
+55,Matan HADITS ARBAIN,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 125
+56,Iqro Koran Kecil Perjilid,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,AMM 007
+57,Minyak Herba Sinergi HNI 100ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,2037
+58,Wookey Wight Rasa Gula Aren  220 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,MJH 01
+59,Madu Al Shifa 500 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,3446
+60,Sunnah Miswak Siwak,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR112458
+61,Black Garlic Bawang Lanang Sehato,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,sehato 001
+62,Parfum Madawi 35 ML Spray,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,OUD SERIES 3
+63,Panduan Manasik Haji Umrah  Ustd Yazid,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS PMHU
+64,Riyadhus Shalihin DH,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0272
+65,Madu Gemuk Badan 350 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Bin Dawood 01
+66,Aisar,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Ibnul Jazari 001
+67,Tahsin dan Tajwid Utsmani,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DS 0015
+68,Hotto Purto 16 Sachet,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Purto 1
+69,Nutri Flakes 280 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,WJI 01
+70,Cuka Apel Moornie 330 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,morni 01
+71,Kumpulan Doa dari Al Quran dan AS Sunnah,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS KDA
+72,Buku Anak Dzikir Pagi Petang DPP,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 211
+73,Dzikir Pagi Petang Saku dpp,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Arafah 029
+74,Jahe Merah Super Ratu Lebah 20 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Ratu Lebah 006
+75,Buku Anak Tuntunan Doa Harian,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 190
+76,Juz Amma Terjemah Merah B5,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 162
+77,Susu Kambing Etawalin 200 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Eta 3583
+78,Zymuno 200 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,TJI 01
+79,Madu Batuk Mint 175 gr Eliman,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR1024118
+80,Parfum Saudi 3 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PS
+81,Buku Anak Tata cara Shalat dan Wudhu Nabi,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 189
+82,Buku Anak Tuntunan Hafalan Hadist Jilid 1,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 202
+83,Madu Multiflora Gudang Herbal 500 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Gudang Herbal 01
+84,Habbasyi Ekstrak Trigona 77 100 Kpl,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Fotosintesis 002
+85,Susu Kambing Etawaku 200 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Eta 3582
+86,Minyak Zaitun Leriche 300 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,1586
+87,Kurma Sukari Castle Farm 1 Kg,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Castle Farm 08
+88,Al Quran Al Hufaz A5 HC,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Cordoba 110301
+89,Buku Anak Tuntunan Hafalan Juz Amma Jilid 1,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 222
+90,Buku Anak Tuntunan Hafalan Hadist Jilid 2,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 202A
+91,Ensiklopedi FIKIH WANITA,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS EFW
+92,Habbasyi Ekstrak Trigona 77 200 Kpl,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Fotosintesis  003
+93,Durusul Lughah 1 Hijau,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kitab 0708
+94,Kopi Borneo 200 gr Sachet,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,5041
+95,Kamus AL MUNAWIR Indo Arab Merah,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,1327
+96,MGanik Metafiber Rasa Jeruk Yuzu 450 g,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Mganik 003
+97,Kamus AL MUNAWIR Arab Indo Biru,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,1326
+98,Habbasyifa 90 kps,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Syifa 001
+99,Kapsul Mengkudu Fittenzo 60 Kpl,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Thoifah 169223
+100,Madu As Salamah 8 in 1,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Salamah 1642
+101,Al Quran Al Madinah Wakaf A5 14 x 20 cm,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS DA MASA5 WAKAF
+102,Sirah Nabawiyah,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0153
+103,Madu Hitam Pahit Gamat Gold Plus 470 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,El Madinah 71
+104,Safe Care,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,8995102800448
+105,Parfum Akim 6ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,2201
+106,Kopi Purwoceng Sachet,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Toga 03
+107,Etawa putih Madu Jahe Ratu Lebah 250 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Ratu Lebah 2145
+108,Mulia Dengan Manhaj Salaf,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PAT-13
+109,Medina Zaitun Extra Virgin Oil 60 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Medina 1942
+110,Kurma Sukari 3 kg,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kurma 0383
+111,Kitab Tauhid Jilid 1,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 1461
+112,Gold G Jelly Gamat 320 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,3675
+113,Kismis Toples 250Gram,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR12242
+114,Juz Amma & Iqro Tulis Metode Follow The Line,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Lestari Madinah 001
+115,Souvenir Dzikir Pagi Petang,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PAT-22
+116,Kitab Tauhid Jilid 3,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 1463
+117,Kitab Tauhid Jilid 2,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 1462
+118,Minhajul Muslim,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 159
+119,Garam Himalayan Toples 250 Gram,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,146816465
+120,KAMUS SANTRI SALUNI,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Arafah 1305
+121,Minyak Zaitun Afra,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR122414
+122,Madu Hutan Akasia Sumatera Hijrah 500 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR012512
+123,Sirah Nabawiyah For KIDS,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR04258
+124,Ad Daa wa Ad Dawaa,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS AWD
+125,Madu Herbapros 280 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Fira 10
+126,Pasta Gigi Nasa 120 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,8714
+127,BRITISH PROPOLIS green,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,BP 2
+128,Sifat Shalat Nabi Saku,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Arafah 032
+129,Qusthul Hindi 60 Kapsul,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Thoifah 00856
+130,Sirah Nabawiyah UQ,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,UQ 3391
+131,Wookey Wight Rasa Coklat Susu Penggemuk badan,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,WOOKEY
+132,Bumbu Nasi Kebuli 100gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR032516
+133,Salep Wasiat Guci Pusaka,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,SLP 1
+134,Superfood Royal Kurma 500gr (Pengganti Multigrain),-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Mganik 007
+135,MGanik 3peptide 330 g,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Mganik 001
+136,Kurma Ruthab Libya 500 Gram,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kurma 516
+137,Al Quran Al Madinah A5 QPP,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS DA MASA5 QPP
+138,Parfum Oud Mood 35 ML Spray,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,OUD SERIES 4
+139,Adab & Akhlak Penuntut Ilmu,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PAT-02
+140,Panduan Adab & Akhlak Islami,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0267
+141,Buku Praktis Sifat Shalat Nabi DH,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0308
+142,Cuka Apel Tahesta 300 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,3444
+143,Parfum Bibit Raudah Raudhah 6ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Bibit 02
+144,Madu Al Shifa 250 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,3448
+145,AL Quran Arafah A5 Tajwid,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Arafah 086
+146,Komik Hadits Arbain An Nawawi 1,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Arafah 004
+147,Iqro HVS Besar + Juz Amma,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,AMM 002
+148,Iqro QR Milenial,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,1202
+149,Sari Kurma Madu Angkak Kelor Syifa 470 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Asyifa 122232
+150,Etawa putih Vanila  Ratu Lebah 250 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Ratu Lebah 2146
+151,Parfum L Amor Spray 30 ML,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR02252
+152,Prouratik 350 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Thoifah 2354
+153,Extra Virgin Olive Oil MUMTAZ 175 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Syifa 009
+154,Daun Kelor 60 kp,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Thoifah 0018
+155,MGanik Metafiber Rasa Leci 450 g,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Mganik 002
+156,Souvenir Kumpulan Doa Umrah dan Haji,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PAT-21
+157,Kurma Tunis Palm Fruit 500 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kurma 1549
+158,Tata Cara Mengurus Jenazah,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 155
+159,Parfum Oud Bukiyah 35 ML Spray,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,OUD SERIES 10
+160,Meneladani Shalat & Wudhu Nabi,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 175
+161,Al Quran Ash Shahib A5 Tajwid,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Hilal M 18
+162,Madu Ratik 175 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,KHARISMA 01
+163,Fiqih Sunnah Wanita GI,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,GI 013
+164,40 Karakteristik Mereka yg DICINTAI Allah,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0218
+165,Matan Al Jurumiyah saku,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kitab 0712
+166,Kitab Tauhid At- Tamimi,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0014
+167,Jahe Merah AMH Amanah Susu,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,AMH 004
+168,Kurma Sukari Ember Castle Farm 850 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Castle Farm 04
+169,Kopi Pede Kotak,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,5043
+170,Paket Mudah Bahasa Arab SD / MI,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Arafah 035
+171,Iqro Koran Kecil,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,AMM 006
+172,Kopdar Instan Coffee Sachet 125 gr Mitoha,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Darusyifa 54
+173,Mushaf At Tajwid A4 HC,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,UQ 5166
+174,Madu Pahit Naturafit 330 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR112416
+175,Kurma Medjoul Palestine Clasic 500 gr Castle Farm,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR122415
+176,Permen Himalaya Salt Lemon,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,SM 002
+177,Al Quran Al Huda A4 HC,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR05259
+178,Madu Stamen Penyubur Pria 350 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Thoifah 0320
+179,Melia Propolis 6 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR1024129
+180,Juz Amma terjemah Koran 14 x 20 Nuun,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Sobat 1300
+181,Kurma Mabroom,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR01256
+182,Kitabah Belajar Menulis Arab,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS KBMA
+183,Intisari Hilyah Thalibil Ilmi,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Mufid 18951
+184,Matan Ushul Tsalastah Saku,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0255
+185,40 Nasihat Memperbaiki Rumah Tangga,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0005
+186,Baina Yadaik 1 (1/1) FMG,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kitab 0738
+187,Ulasan Tuntas 3 Prinsip Pokok,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 2943
+188,Al Quran Al Kamil A5 HC Rasm Utsmani HVS,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DS 4533
+189,100 Hadis Populer Untuk Hafalan,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Elba 5088
+190,Talbinah 400 gr Asabil Amin Food,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,3489
+191,Matan Kitab Al Jami Arafah,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Arafah 0013
+192,Al Quran Al Kabir B4,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Cordoba 9128
+193,Al Quran Al Majid A4 HC,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Alfatih 0021
+194,Hisnul Muslim Saku,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Arafah 027
+195,Al Quran Al Majid A5 HC,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Alfatih 0022
+196,Gold G Jelly Gamat 100 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,3677
+197,Mix Saga,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,2056
+198,Madu Hitam Pahit Insulin,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Darusyifa 13
+199,Coklat Kerikil 250 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,092
+200,Gurah Asy Syifa 30 kps,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,3578
+201,Kurma Ajwa King Date 1 kg,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Syifa 002
+202,Madu Hutan Platinum 500 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Thoifah 0001
+203,Kurma Safawi,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR01255
+204,Buhur AMR - Amirah Bakhoor Factory,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR12247
+205,Madu Hutan Liar 500 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Wadey 1867
+206,Togastro 50 Kps,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Toga 2894
+207,Parfum X No Permata,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,X Parfum 2209
+208,Mengenal PRIBADI AGUNG Nabi Muhammad,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,UQ 1979
+209,VCO Virgin Oil 125 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Thoifah 0919
+210,Superfood Royal Pumkin/Labu Kuning 500gr (Pengganti Multigrain),-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Mganik 008
+211,Organic Chia Seed 70 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Nutrifarm 02
+212,Minyak Herba Kutus Kutus,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kut 1
+213,Syarah Aqidah AWJ,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS SAQ
+214,Sifat WUDHU & SHALAT NABI,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS SWSN
+215,Al Quran Ash Shahib A6 Resl,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Hilal M 17
+216,Panduan Praktis Umrah gantung GI,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,GI 061
+217,Durusul Lughah 1-4 SC,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kitab 07011
+218,Dosa-Dosa Tidak Disadari KAUM WANITA,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0649
+219,Sari Kurma Madu Angkak Plus 280 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Fira 17
+220,Madu Vitomata 280 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Fira 05
+221,Matan & Terjemah Hadits Arbain An Nawawi,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0344
+222,Sari Kurma Madu Angkak Plus 470 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Fira 18
+223,Ranuna Kacang Arab 1kg,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,1232
+224,Madu Syamil Anak 125 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,3590
+225,Al Quran Al Hafiz A5,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Cordoba 2089
+226,Minyak VCO 125 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Darusyifa 33
+227,Gamaxs Gold 60 kps,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Darusyifa 3
+228,Kamus Santri Baru Level 1,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Arafah 028
+229,Al Muyassar Fii Ilmin Nahwi Jilid 1 Azka,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Azka 005
+230,Air Zam Zam Kemasan Botol 1 Liter,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,002
+231,Kamus Santri Baru Level 3,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Arafah 051
+232,Kamus Santri Baru Level 2,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Arafah 050
+233,Nahwu Wadhih juz 1,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Wadi 07231
+234,Mushaf At Tajwid A5 HC,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,UQ 5165
+235,Amtsila Tasrif Sampul Biru,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR10243987
+236,Minyak Herba SInergi Hot,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR052511
+237,H Sauda 120 K Ajwa,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Vico 0936
+238,Juz Amma terjemah HVS 14 x 20 Nuun,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR10243519
+239,Siratik 60 Kpl,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Thoifah 110015
+240,Madu Hutan Multiflora 500 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Thoifah 0003
+241,Minyak Cengkeh,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR01253
+242,Sari Kurma Sahira 335 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,TNJ 005
+243,Al-Quran Al Mubarok A5 Rest,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR112437
+244,Kurma Sugae,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR01257
+245,Parfum Blue Sky 10ml Beard,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR112442
+246,Al Quran Waqaf & Ibtida A5 Tajwid Ar Razzaq,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,S Agung 018
+247,Madu Hitam Pahit Ratu Lebah 470 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Ratu Lebah 1711
+248,Kacang Almond Toples 300 Gram,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PR022515
+249,Madu Mazero 175 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Thoifah 1666
+250,Nurul Yaqin,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,UQ 003
+251,Kapsul Gamas (Gamat emas) 60 Kpl,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Thoifah 0083
+252,Parfum Al Amir Shadha 6 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,SHA 11
+253,Al Quran Al Mahir A4,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Medina 001
+254,Al Quran Al Mitsaq A4,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Medina 002
+255,Kurma  Fruit Palm 500 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kurma 1538
+256,Parfum Al Amir Oud 35 ML Spray,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,OUD SERIES 9
+257,KIsah Teladan Birrul Walidain Generasi Mulia,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS BWGM
+258,Al Quran Al Khobir A4 HC Transliterasi Perkata,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Nur Ilmu 004
+259,Berdoa Yuk Beramal Dan Berpahala,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIS BY
+260,Buku Anak Mari Belajar Menulis JUZ AMMA Surat Pilihan,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 265
+261,Medina Zaitun Extra Virgin Oil 325 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Medina 1941
+262,Tuntunan Praktis MANASIK UMRAH,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,PIU 223
+263,SEHARI Di Kediaman Rasulullah,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0250
+264,Hotto Mame,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Hotto 1
+265,Gold G Jelly Gamat 250 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,goldgg1
+266,76 Dosa Besar,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0206
+267,Madu Jadied Masela 165g,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Jadied 1226
+268,Suami Istri Rumah Mungil Bahagia,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 3238
+269,Durusulughah Jilid 1 Hijau Putih,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Kitab 1020
+270,Fathul Majid,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 0237
+271,99 Kisah Orang Shalih DH,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,DH 120
+272,Teh Celup Jati Cina 20 Scht,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Darusyifa 28
+273,Coklat Truffle Mix 1 kg,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,1234
+274,Minyak But But 75 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,2038
+275,Manhajus Salikin,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,Arafah 0033
+276,Vitabumin 130 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,5069
+277,Madu Al Shifa 1000 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,3445
+278,Cuka Apel KITA 300 ml,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,0013
+279,Madu Al Shifa 125 gr,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,1648
+280,Botol Zam zam 80 ml isi 25 pcl,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,091
+281,Jahe AMH Amanah Super,-,10000,10,0,Produk Aktif,11/13/2025 20:55,11/13/2025 20:55,NULL,AMH 002
