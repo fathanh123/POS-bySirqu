@@ -86,7 +86,9 @@ const Menu = ({
             harga: item.price,
             stok: item.stock,
             foto: item.product_image,
-            deskripsi: item.description
+            deskripsi: item.description,
+            sku: item.sku, // Assuming SKU is a field in the API response
+            kategoriId: item.category_id
         }));
     };
 
@@ -101,6 +103,7 @@ const Menu = ({
 
             if (Array.isArray(response.data.data)) {
                 const formattedData = formatMenuData(response.data.data);
+                console.log(formattedData); // Log formatted data to verify
                 setDataMenu(formattedData);
             } else {
                 console.error("Data yang diterima bukan array");
@@ -147,6 +150,7 @@ const Menu = ({
         
         // Get products from same category (excluding selected product)
         const sameCategory = DataMenu.filter(item => 
+            // item.sku !== selectedProduct.sku &&
             item.kategori === selectedProduct.kategori && 
             item.produkId !== selectedProduct.produkId &&
             item.outlet === selectedProduct.outlet &&

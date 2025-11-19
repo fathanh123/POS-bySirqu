@@ -1,0 +1,10 @@
+1. kosongin semua database sampe clear dari value. bisa clear table satu satu atau hapus db aja mulai baru.
+2. bikin 1 outlet
+3. bikin 1 kategori, namain 'Produk'
+4. import produk.csv
+5. import produk-kategori.csv
+6. import produk-outlet.csv
+7. *PENTING CEK, pindahin no-image.png ke \backend\images
+import produk-gambar.
+
+DONE!
