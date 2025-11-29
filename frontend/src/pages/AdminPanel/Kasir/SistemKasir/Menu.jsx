@@ -22,6 +22,8 @@ import { Door } from 'akar-icons';
 import axios from 'axios';
 import { API_URL } from "../../../../helpers/networt";
 import BottomSheet from './BottomSheet'; // Import BottomSheet component
+// Import FP-Growth rules 
+import fpGrowthRules from '../../../../../FP-growth-5min';
 
 const Menu = ({ 
     setDetailOrder,
@@ -144,30 +146,83 @@ const Menu = ({
         return matchesOutlet && matchesSearchTerm && matchesCategory;
     });
 
+    // LOGIC AREA
     // Generate recommendations based on selected product
+    // const getRecommendations = (selectedProduct) => {
+    //     if (!selectedProduct) return [];
+        
+    //     // Get products from same category (excluding selected product)
+    //     const sameCategory = DataMenu.filter(item => 
+    //         // item.sku !== selectedProduct.sku &&
+    //         item.kategori === selectedProduct.kategori && 
+    //         item.produkId !== selectedProduct.produkId &&
+    //         item.outlet === selectedProduct.outlet &&
+    //         item.stok > 0
+    //     );
+        
+    //     // Get products from different categories as backup
+    //     const differentCategory = DataMenu.filter(item => 
+    //         item.kategori !== selectedProduct.kategori && 
+    //         item.outlet === selectedProduct.outlet &&
+    //         item.stok > 0
+    //     ).slice(0, 2);
+        
+    //     // Combine and limit to 4 recommendations
+    //     const recommendations = [...sameCategory.slice(0, 2), ...differentCategory].slice(0, 4);
+        
+    //     return recommendations;
+    // };
+
+    // {Updated getRecommendations function}
     const getRecommendations = (selectedProduct) => {
         if (!selectedProduct) return [];
         
-        // Get products from same category (excluding selected product)
-        const sameCategory = DataMenu.filter(item => 
-            // item.sku !== selectedProduct.sku &&
-            item.kategori === selectedProduct.kategori && 
-            item.produkId !== selectedProduct.produkId &&
-            item.outlet === selectedProduct.outlet &&
-            item.stok > 0
+        const selectedSKU = selectedProduct.sku;
+        
+        // Step 1: Find matching rules where selected product is in antecedents
+        const matchingRules = fpGrowthRules.filter(rule => 
+            rule.antecedents.includes(selectedSKU)
         );
         
-        // Get products from different categories as backup
-        const differentCategory = DataMenu.filter(item => 
-            item.kategori !== selectedProduct.kategori && 
-            item.outlet === selectedProduct.outlet &&
-            item.stok > 0
-        ).slice(0, 2);
+        // Step 2: Extract all consequents from matching rules
+        const recommendedSKUs = new Set();
+        matchingRules.forEach(rule => {
+            rule.consequents.forEach(sku => {
+                // Don't recommend the same product
+                if (sku !== selectedSKU) {
+                    recommendedSKUs.add(sku);
+                }
+            });
+        });
         
-        // Combine and limit to 4 recommendations
-        const recommendations = [...sameCategory.slice(0, 2), ...differentCategory].slice(0, 4);
+        // Step 3: Find products that match the recommended SKUs
+        const recommendations = [];
+        recommendedSKUs.forEach(sku => {
+            const product = DataMenu.find(item => 
+                item.sku === sku && 
+                item.outlet === selectedProduct.outlet &&
+                item.stok > 0
+            );
+            
+            if (product) {
+                recommendations.push(product);
+            }
+        });
         
-        return recommendations;
+        // Step 4: If no FP-Growth recommendations, fall back to category-based
+        if (recommendations.length === 0) {
+            const sameCategory = DataMenu.filter(item => 
+                item.kategori === selectedProduct.kategori && 
+                item.produkId !== selectedProduct.produkId &&
+                item.outlet === selectedProduct.outlet &&
+                item.stok > 0
+            ).slice(0, 4);
+            
+            return sameCategory;
+        }
+        
+        // Step 5: Limit to 4 recommendations
+        return recommendations.slice(0, 4);
     };
 
     // Updated handleAddToOrder with BottomSheet integration
@@ -317,7 +372,7 @@ const Menu = ({
                                                 src={menu.foto ? `${API_URL}/images/${menu.foto}` : "https://github.com/shadcn.png"}
                                             />
                                         </a>
-                                        <h1 className='text-[16px] font-semibold'>{menu.name}</h1>
+                                        <h1 className='text-[16px] font-semibold'>{menu.sku}</h1> {/* .name ini diganti sku */}
                                         <p className='text-[14px] font-normal text-slate-500'>{menu.deskripsi?.length > 60 ? `${menu.deskripsi.slice(0, 60)}...` : menu.deskripsi}</p>
                                         <div className='flex justify-between'>
                                             <p className='text-[14px] font-medium text-slate-500'>Stok {menu.stok}</p>

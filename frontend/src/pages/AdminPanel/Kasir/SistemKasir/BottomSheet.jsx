@@ -41,8 +41,8 @@ const BottomSheet = ({
               </div>
               {selectedProduct && (
                 <p className="text-xs sm:text-sm text-slate-500 line-clamp-2">
-                  Berdasarkan <span className="font-medium text-slate-700">{selectedProduct.name}</span> yang baru ditambahkan
-                </p>
+                  Berdasarkan <span className="font-medium text-slate-700">{selectedProduct.sku}</span> yang baru ditambahkan
+                </p> //temp : ubah name -> sku
               )}
             </div>
             <Button
@@ -84,9 +84,8 @@ const BottomSheet = ({
                     {/* Product Info */}
                     <div className="p-3 sm:p-4">
                       <h3 className="font-semibold text-sm mb-1.5 line-clamp-2 min-h-[2.5rem]">
-                        {product.name}
+                        {product.sku} {/*.name ini diganti sku*/}
                       </h3>
-                      
                       <p className="text-xs text-slate-500 mb-2 line-clamp-2 min-h-[2rem]">
                         {product.deskripsi?.length > 50 
                           ? `${product.deskripsi.slice(0, 50)}...` 
