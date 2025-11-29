@@ -148,31 +148,6 @@ const Menu = ({
 
     // LOGIC AREA
     // Generate recommendations based on selected product
-    // const getRecommendations = (selectedProduct) => {
-    //     if (!selectedProduct) return [];
-        
-    //     // Get products from same category (excluding selected product)
-    //     const sameCategory = DataMenu.filter(item => 
-    //         // item.sku !== selectedProduct.sku &&
-    //         item.kategori === selectedProduct.kategori && 
-    //         item.produkId !== selectedProduct.produkId &&
-    //         item.outlet === selectedProduct.outlet &&
-    //         item.stok > 0
-    //     );
-        
-    //     // Get products from different categories as backup
-    //     const differentCategory = DataMenu.filter(item => 
-    //         item.kategori !== selectedProduct.kategori && 
-    //         item.outlet === selectedProduct.outlet &&
-    //         item.stok > 0
-    //     ).slice(0, 2);
-        
-    //     // Combine and limit to 4 recommendations
-    //     const recommendations = [...sameCategory.slice(0, 2), ...differentCategory].slice(0, 4);
-        
-    //     return recommendations;
-    // };
-
     // {Updated getRecommendations function}
     const getRecommendations = (selectedProduct) => {
         if (!selectedProduct) return [];
@@ -372,7 +347,7 @@ const Menu = ({
                                                 src={menu.foto ? `${API_URL}/images/${menu.foto}` : "https://github.com/shadcn.png"}
                                             />
                                         </a>
-                                        <h1 className='text-[16px] font-semibold'>{menu.sku}</h1> {/* .name ini diganti sku */}
+                                        <h1 className='text-[16px] font-semibold'>{menu.name}</h1>
                                         <p className='text-[14px] font-normal text-slate-500'>{menu.deskripsi?.length > 60 ? `${menu.deskripsi.slice(0, 60)}...` : menu.deskripsi}</p>
                                         <div className='flex justify-between'>
                                             <p className='text-[14px] font-medium text-slate-500'>Stok {menu.stok}</p>
